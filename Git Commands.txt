@@ -1,1 +1,2 @@
 git version = To check Version of Git present in your system
+git config --list == To check the configuration of git
